@@ -1,5 +1,7 @@
 {
     "name": "PMdoro",
+    "short_name": "PMdoro",
+    "description": "A simple To-Do App with Pomodoro.",
     "icons": [
         {
             "src": "/android-chrome-192x192.png",
